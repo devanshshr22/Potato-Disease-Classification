@@ -65,10 +65,7 @@ Potato-Disease-Classification/
 │
 ├── Potato Disease Classification.ipynb
 ├── README.md
-├── requirements.txt
-├── images/
-├── models/
-└── results/
+
 ```
 
 ## Installation
